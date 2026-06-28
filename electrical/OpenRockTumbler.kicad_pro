@@ -534,7 +534,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -673,7 +673,7 @@
         "uuid": "cfa615dd-35b4-48e0-9dbb-fa4b4635dce4"
       }
     ],
-    "used_designators": "SPD+1,SW1-7,DAY+1,U1-5,DAY\\-1,#FLG1-2,ONOFF1,R1-9,24V_LED1,PAUSE1,SPD\\-1,J1-8,J10,#PWR1-53,#PWR95-96,C1-3,C6-8,3V3_LED1,5V_LED1",
+    "used_designators": "SPD+1,SW1-7,DAY+1,U1-5,DAY\\-1,R1-9,24V_LED1,#FLG1-2,ONOFF1,PAUSE1,SPD\\-1,J1-8,J10,#PWR1-53,#PWR95-96,C1-3,C6-8,3V3_LED1,5V_LED1",
     "variants": []
   },
   "sheets": [
